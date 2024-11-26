@@ -49,6 +49,20 @@ This code is inspired by University of Toronto, MIE 1624, Assignment 3.
 
 > **Note**: It's recommended to keep `postings` around 200 each time. Larger values may lead to errors.
 
+## 🌏 Regional Settings
+
+To scrape job listings from different Indeed regional sites, use the appropriate URL template in your code.
+
+**Indeed Canada**
+```python
+url_template = "https://ca.indeed.com/jobs?q={}&l={}"
+```
+
+**Indeed United States**
+```python
+url_template = "https://www.indeed.com/jobs?q={}&l={}"
+```
+
 ## 🛡️ Anti-CAPTCHA Innovation
 
 This scraper implements innovative CAPTCHA handling mechanisms:
