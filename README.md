@@ -22,12 +22,6 @@ This code is inspired by University of Toronto, MIE 1624, Assignment 3.
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Python 3.9.x
-- Firefox Browser
-- Required Python packages (listed in requirements.txt)
-
 ### Usage
 
 1. Download the code to your local computer
