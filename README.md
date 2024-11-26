@@ -47,7 +47,7 @@ This code is inspired by University of Toronto, MIE 1624, Assignment 3.
    postings = 200
    ```
 
-> **Note**: It's recommended to keep `postings` around 200. Larger values may lead to errors.
+> **Note**: It's recommended to keep `postings` around 200 each time. Larger values may lead to errors.
 
 ## 🛡️ Anti-CAPTCHA Innovation
 
