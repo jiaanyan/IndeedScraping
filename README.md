@@ -14,7 +14,7 @@ This code is inspired by University of Toronto, MIE 1624, Assignment 3.
 
 ## ✨ Features
 
-- Automated job posting data collection from Indeed.com
+- Automated **job posting data** collection from Indeed.com
 - CAPTCHA detection and handling
 - Robust error management
 - Data export to CSV format
